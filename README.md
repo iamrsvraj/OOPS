@@ -32,3 +32,13 @@ This class will have appropriate constructors.
 Each object of the Account class represents an account which has unique account number.
 ‘Count’ field of the class will be static and it increments whenever we we create a new
 account. 
+
+Define a toString method that prints all the fields in Account class. Print the information
+about accounts’ by just calling object.toString().
+This class supports debit and credit facilities for the customer’s account.
+Debit will have following features -
+A. Reports Error if account balance is not sufficient
+B. Attract penalty of Rs. 5 in two cases -
+a. Account balance is less than or equal to Rs. 500
+b. If after deducting the amount of debit from the account balance, account balance <=
+500. 
