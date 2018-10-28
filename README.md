@@ -11,3 +11,5 @@ e. Latest Roll No
 So, this class with have overloaded constructors -
 A. Default constructor
 B. Constructors with all fields as parameters 
+
+ There will be setter and getter methods for the fields of the class. 
