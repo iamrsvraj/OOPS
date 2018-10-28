@@ -27,3 +27,8 @@ a. Customer Name
 b. Address
 c. Balance
 d. Account
+e. Count
+This class will have appropriate constructors.
+Each object of the Account class represents an account which has unique account number.
+‘Count’ field of the class will be static and it increments whenever we we create a new
+account. 
