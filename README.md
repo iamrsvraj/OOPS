@@ -20,3 +20,10 @@ counter.
  Initialize the students’ information by storing information about 10 students. That is,
 create an array of type Student of size 10 and then instantiate each element.
  Print the information about students’ by just calling object.toString(). 
+
+
+2. Design a class called Account - which stores the following details about the
+a. Customer Name
+b. Address
+c. Balance
+d. Account
