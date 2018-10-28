@@ -42,3 +42,7 @@ B. Attract penalty of Rs. 5 in two cases -
 a. Account balance is less than or equal to Rs. 500
 b. If after deducting the amount of debit from the account balance, account balance <=
 500. 
+Initialize the accounts’ status by creating at least 20 accounts with an initial deposit of Rs.
+1000. That is, create an array of type Account of size 20 and then instantiate each element.
+Write a menu driven program that asks the user his/her account number followed by the
+operation to perform on his account. 
