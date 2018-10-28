@@ -17,3 +17,6 @@ B. Constructors with all fields as parameters
  ‘Latest Roll No’ field of the class will be static containing latest roll number. A new
 student when added gets his or her roll number after incrementing this status
 counter. 
+ Initialize the students’ information by storing information about 10 students. That is,
+create an array of type Student of size 10 and then instantiate each element.
+ Print the information about students’ by just calling object.toString(). 
