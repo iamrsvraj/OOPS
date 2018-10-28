@@ -13,3 +13,7 @@ A. Default constructor
 B. Constructors with all fields as parameters 
 
  There will be setter and getter methods for the fields of the class. 
+ Define a toString method that prints all the fields in Student class.
+ ‘Latest Roll No’ field of the class will be static containing latest roll number. A new
+student when added gets his or her roll number after incrementing this status
+counter. 
