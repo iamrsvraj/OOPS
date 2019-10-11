@@ -46,3 +46,5 @@ Initialize the accounts’ status by creating at least 20 accounts with an initi
 1000. That is, create an array of type Account of size 20 and then instantiate each element.
 Write a menu driven program that asks the user his/her account number followed by the
 operation to perform on his account. 
+
+Change the concept
